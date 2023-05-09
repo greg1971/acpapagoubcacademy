@@ -5,6 +5,14 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+/*--------------------------------------------------------------
+# AC Papagou classes
+--------------------------------------------------------------*/
+.small-image {
+  width: 70%; /* or any other value you want */
+  height: auto; /* keep the aspect ratio */
+}
+
 
 /*--------------------------------------------------------------
 # General
@@ -672,7 +680,7 @@ section {
 }
 
 .portfolio-details .portfolio-description h2 {
-  font-size: 40px;
+  font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
 }
