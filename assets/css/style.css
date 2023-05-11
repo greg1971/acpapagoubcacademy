@@ -266,6 +266,14 @@ h6 {
   color: #fff;
 }
 
+#hero h2 {
+  margin: 0 0 10px 0;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #2A30DF;
+}
+
 #hero p {
   color: #fff;
   margin-bottom: 50px;
@@ -426,7 +434,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -438,7 +446,7 @@ section {
 .skills .progress .skill {
   padding: 0;
   margin: 0 0 6px 0;
-  text-transform: uppercase;
+  /*text-transform: uppercase; */
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
