@@ -1,0 +1,48 @@
+- Operational Section
+-- Systems
+--- Dynamic Case
+	a. System Description
+	b. URLs per environment
+	c. ACL entities for the system
+--- Dissemination
+	a. System Description
+	b. URLs per environment
+	c. ACL entities for the system
+	---- DISLIST
+	---- R4BP (DISBAS & DISBPA)
+	---- C&L and CLH
+	---- PIC
+	---- etc.
+--- Interact Portal
+	a. System Description
+	b. URLs per environment
+	c. ACL entities for the system (accessible trough acc_user synonyms) 
+--- REACH IT
+	a. System Description
+	b. URLs per environment
+	c. ACL entities for the system
+--- R4BP
+	a. System Description
+	b. URLs per environment
+	c. ACL entities for the system 
+--- BO Reports
+	---- POPs
+--- SIGMA
+	a. System Description
+	b. URLs per environment
+	c. ACL entities for the system
+--- GROUP Registry
+--- SCIP / PCN
+	a. System Description
+	b. URLs per environment
+--- SDAP
+--- ePIC
+	a. System Description
+	b. URLs per environment
+	c. ACL entities for the system
+--- Classlab
+	a. System Description
+	b. URLs per environment
+	c. ACL entities for the system
+-- Web Services
+

@@ -1,0 +1,93 @@
+{
+   "data":[
+      {
+         "rmlId":"100.000.037",
+         "rmlEC":"200-040-0",
+         "rmlCas":"50-47-5",
+         "rmlName":"Desipramine",
+         "rmlType":"SUBSTANCE",
+         "parentRmlId":null,
+         "regLists":[
+            
+         ]
+      },
+      {
+         "rmlId":"100.000.038",
+         "rmlEC":"200-041-6",
+         "rmlCas":"50-48-6",
+         "rmlName":"Amitriptyline",
+         "rmlType":"SUBSTANCE",
+         "parentRmlId":"GMT_00259",
+         "regLists":[
+            {
+               "listCode":"PREP_RMOA_LIST",
+               "listName":"ARN List",
+               "listData":[
+                  {
+                     "dataAttr":"Concern",
+                     "dataValue":"To be defined , To be defined"
+                  },
+                  {
+                     "dataAttr":"Authority",
+                     "dataValue":null
+                  },
+                  {
+                     "dataAttr":"Group name",
+                     "dataValue":"aralkylamines , aralkylamines"
+                  },
+                  {
+                     "dataAttr":"Foreseen Regulatory Need",
+                     "dataValue":"Harmonised Classification , Other EU legislation"
+                  },
+                  {
+                     "dataAttr":"Status",
+                     "dataValue":"Concluded"
+                  },
+                  {
+                     "dataAttr":"Follow up",
+                     "dataValue":"CLH"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "rmlId":"100.000.040",
+         "rmlEC":"200-043-7",
+         "rmlCas":"50-50-0",
+         "rmlName":"Estradiol benzoate",
+         "rmlType":"SUBSTANCE",
+         "parentRmlId":null,
+         "regLists":[
+            
+         ]
+      },
+      {
+         "rmlId":"100.000.041",
+         "rmlEC":"200-044-2",
+         "rmlCas":"50-52-2",
+         "rmlName":"Thioridazine",
+         "rmlType":"SUBSTANCE",
+         "parentRmlId":null,
+         "regLists":[
+            
+         ]
+      },
+      {
+         "rmlId":"100.000.042",
+         "rmlEC":"200-045-8",
+         "rmlCas":"50-53-3",
+         "rmlName":"Chlorpromazine",
+         "rmlType":"SUBSTANCE",
+         "parentRmlId":null,
+         "regLists":[
+            
+         ]
+      }
+   ],
+   "metadata":{
+      "fetchedItems":5,
+      "nextPage":5,
+      "totalItems":98293
+   }
+}

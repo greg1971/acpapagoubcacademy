@@ -1,0 +1,1 @@
+please check that you can access the servers from PuTTY or winSCP via your username (ts-gkavv) and the private key(ppk) that you have generated using the passphrase for your key as password. (eg. EPCECHA02433.echa.europa.local)
