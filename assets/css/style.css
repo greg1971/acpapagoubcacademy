@@ -242,8 +242,8 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
-  height: 100vh;
+  width:  100% ;
+  height:  100vh ;
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
 }
@@ -251,7 +251,7 @@ h6 {
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
-  position: absolute;
+  /*position: absolute; αυτό το σκοτείνιαζε */
   bottom: 0;
   top: 0;
   left: 0;
