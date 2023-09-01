@@ -276,17 +276,21 @@ h6 {
 
 #hero h2 {
   margin: 0 0 10px 0;
-  font-size: 58px;
+  font-size: 52px;
   font-weight: 700;
-  line-height: 60px;
-  color: #4B69D1;
+  line-height: 56px;
+ /* color: #4B69D1; */
+ text-align:center;
+  color: #fff;
 }
 
 #hero p {
   color: #fff;
   margin-bottom: 50px;
-  font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-size: 39px;
+  /*font-family: "Poppins", sans-serif; */
+  font-family: Lucida Handwriting;
+  text-align:center;
 }
 
 #hero p span {
@@ -312,6 +316,10 @@ h6 {
     font-size: 26px;
     line-height: 24px;
     margin-bottom: 30px;
+  }
+  
+  #hero p {
+	  font-size: 24px;
   }
 }
 
