@@ -181,7 +181,7 @@ h6 {
   align-items: center;
   color: #a8a9b4;
   padding: 12px 15px;
-  margin-bottom: 8px;
+  margin-bottom: 3px;
   transition: 0.3s;
   font-size: 15px;
 }
@@ -1120,7 +1120,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 40px;
+  padding: 30px;
   color: #f4f6fd;
   font-size: 14px;
   position: fixed;
