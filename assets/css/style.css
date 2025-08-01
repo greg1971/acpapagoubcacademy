@@ -260,8 +260,9 @@ background-size: cover;
   background-image: url("../img/hero-bg-SOSARA.png");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 78%;
+  background-size: contain;  
   /*background-color: #f8f9fa;*/
+ 
 
 }
 /*
