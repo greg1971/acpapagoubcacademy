@@ -260,7 +260,7 @@ background-size: cover;
   background-image: url("../img/hero-bg-2000_b.png");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: auto;  
+  background-size: cover;  
   /*background-color: #f8f9fa;*/
  
 
